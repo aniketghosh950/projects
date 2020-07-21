@@ -4,11 +4,11 @@ A learning  project on Machine Learning
 
 - In the heart disease project we are predicting whether a person has a heart disease or not on the basis of several features.
 
-- Used **scikit-learn** to build 3 machine learning models namely RandomforestClassifier, KNN neighbors and LinearRegression.
+- Used **scikit-learn** to build 3 machine learning models namely **RandomforestClassifier**, **KNN neighbors** and **LinearRegression**.
 
 - Also tried to improve the efficiency by hypertuning and then also evaluated the model.
 
-- For the evaluation metrics, I have calculated precision, recall, accuracy and F1 score.
+- For the evaluation metrics, I have calculated Precision, Recall, Accuracy and F1 score.
 
 - In the Bulldozer prize prediction we have to predict the price of Bulldozers, we are given the previous years price of Bulldozers(training set), a validation set and a test set in which we have to predict the future prices of Bulldozers.
 
@@ -24,3 +24,5 @@ A learning  project on Machine Learning
 
 **IMPORTANT**:  
 To be able to see the jupyter notebook all you need is a  conda environment and Pandas, Numpy, Matplotlib, Scikit-learn and Seaborn packages.
+
+I have also uploaded my whole conda enironment in [environment.yml](environment.yml).
