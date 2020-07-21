@@ -12,13 +12,13 @@ A learning  project on Machine Learning
 
 5)In the Bulldozer prize prediction we have to predict the price of Bulldozers,we are given the previous years price of Bulldozers(training set), a validation set and a test set in which we have to predict the future prices of Bulldozers.
 
-6)So in this problem ,I first preprocessed all data(filled all Nan values and converted the types of all objects to categories and suitably encoded all the entries to numerical)
+6)So in this problem ,I first preprocessed all data(filled all Nan values and converted the types of all objects to categories and suitably encoded all the entries to numerical).
 
 7)Then i have used RandomForestRegressor()and also hypertuned the parameters using RandomizedSearchCV to find the optimal parameters.
 
 8)Also for evaluation metric used Root mean square log error(RMSLE).
 
-9)Also found out the important features which contributed the most to the predictions made by the model
+9)Also found out the important features which contributed the most to the predictions made by the model.
 
 10)Also saved predictions in predictions.csv which is also uploaded in this repository.
 
