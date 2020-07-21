@@ -1,4 +1,4 @@
-# Heart_disease and Bulldozer price prediction-
+# Heart disease and Bulldozer price prediction-
 
 A learning  project on Machine Learning
 
